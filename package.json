@@ -1,0 +1,17 @@
+{
+  "name": "iofxml-control-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csv": "^3.0.2",
+    "moment": "^2.22.1"
+  }
+}
